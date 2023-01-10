@@ -796,7 +796,7 @@ compressible@~2.0.3:
 
 compression@1.5.0:
   version "1.5.0"
-  resolved "http://registry.npmjs.org/compression/-/compression-1.5.0.tgz#ccc1a54788da1b3ad7729c49f6a00b3ac9adf47f"
+  resolved "https://registry.npmjs.org/compression/-/compression-1.5.0.tgz#ccc1a54788da1b3ad7729c49f6a00b3ac9adf47f"
   dependencies:
     accepts "~1.2.9"
     bytes "2.1.0"
@@ -985,7 +985,7 @@ date-now@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/date-now/-/date-now-0.1.4.tgz#eaf439fd4d4848ad74e5cc7dbef200672b9e345b"
 
-debug@*:
+debug@*, debug@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   dependencies:
@@ -994,12 +994,6 @@ debug@*:
 debug@0.7.4, debug@~0.7.2, debug@~0.7.4:
   version "0.7.4"
   resolved "https://registry.yarnpkg.com/debug/-/debug-0.7.4.tgz#06e1ea8082c2cb14e39806e22e2f6f757f92af39"
-
-debug@2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-2.1.0.tgz#33ab915659d8c2cc8a41443d94d6ebd37697ed21"
-  dependencies:
-    ms "0.6.2"
 
 debug@2.6.9, debug@^2.1.2:
   version "2.6.9"
@@ -2547,10 +2541,6 @@ module-deps@^4.0.2, module-deps@^4.0.8:
 mout@^0.11.0:
   version "0.11.1"
   resolved "https://registry.yarnpkg.com/mout/-/mout-0.11.1.tgz#ba3611df5f0e5b1ffbfd01166b8f02d1f5fa2b99"
-
-ms@0.6.2:
-  version "0.6.2"
-  resolved "https://registry.yarnpkg.com/ms/-/ms-0.6.2.tgz#d89c2124c6fdc1353d65a8b77bf1aac4b193708c"
 
 ms@0.7.1:
   version "0.7.1"
